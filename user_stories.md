@@ -1,5 +1,14 @@
-Define Admin User Stories: Develop user stories for admins who manage access and system functionality.
-Define Patient User Stories: Develop user stories for patients who book and manage appointments.
-Define Doctor User Stories: Develop user stories for doctors who manage their availability and patient appointments.
-Commit your stories: Push your user stories to GitHub and ensure the changes are stored correctly.
-Deliverables
+# User Story Template
+
+**Title:**
+_As a [user role], I want [feature/goal], so that [reason]._
+
+**Acceptance Criteria:**
+1. [Criteria 1]
+2. [Criteria 2]
+3. [Criteria 3]
+
+**Priority:** [High/Medium/Low]
+**Story Points:** [Estimated Effort in Points]
+**Notes:**
+- [Additional information or edge cases]
